@@ -1,4 +1,4 @@
-<h1>Hi, I'm Teneka!I´m a Technology Professional</a>👩🏾‍💻</h1>
+<h1>Hi, I'm Teneka!</a>👩🏾‍💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
