@@ -1,4 +1,4 @@
-<h1>Hi, I'm Teneka an </a><a href="https://linkedin.com/in/teneka-johnson-8b913386/)">IT Professional</a>☺</h1>👩🏾‍💻</h1>
+<h1>Hi, I'm Teneka an </a><a href="https://linkedin.com/in/teneka-johnson-8b913386/)">IT Professional/h1>👩🏾‍💻</h1>
 
 <h2>👨‍💻 IT Projects and Practice Labs:</h2>
 
