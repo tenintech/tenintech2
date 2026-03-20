@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Prepare AD Infrastructure in Azure](https://github.com/tenintech/ad-infrastructure)
   - [Deploying Active Directory](https://github.com/tenintech/deploying-ad)
-  - [Account Management](https://github.com/tenintech/deploying-ad))
+  - [Account Management](https://github.com/tenintech/deploying-ad)
 
 
   - [Group Policy Management- Create Wallpaper Policy](https://github.com/tenintech/osticket-prereqs)
