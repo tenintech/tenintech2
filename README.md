@@ -11,7 +11,7 @@
   - [Group Policy Management- Create Wallpaper Policy](https://github.com/tenintech/osticket-prereqs)
 
 - <b> Help Desk Ticketing Systems</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Deploy and Configure Internal IT Help Desk System Using osTicket(Prerequisites and Installation)](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Zendesk: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
