@@ -22,7 +22,7 @@
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
-- <b>Hardware Troubleshooting Lab</b>
+- <b>Laptop Hardware Maintenance Lab</b>
 
 <h2>🤳Connect with me:</h2>
 
