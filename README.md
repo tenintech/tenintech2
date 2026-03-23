@@ -10,7 +10,7 @@
 
   - [Group Policy Management- Create Wallpaper Policy](https://github.com/tenintech/osticket-prereqs)
 
-- <b> Help Desk Ticketing Systems</b>
+- <b>Ticketing Systems</b>
   - [Deploy and Configure osTicket Help Desk System(Prerequisites and Installation)](https://github.com/joshmadakorcc/osticket-prereqs)
 
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
