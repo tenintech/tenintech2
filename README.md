@@ -17,8 +17,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Zendesk Demo: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   
-- <b>🔷Microsoft Azure🔷</b>
-  - [Azure Identity Management (User & Group Administration)](https://github.com/joshmadakorcc/configure-ad)
+- <b>Cloud Computing</b>
+  - [Microsoft Azure Identity Management (User & Group Administration)](https://github.com/joshmadakorcc/configure-ad)
   - [Azure Networking & Connectivity Troubleshooting](https://github.com/joshmadakorcc/configure-ad)
   - [Azure Storage & File Sharing](https://github.com/joshmadakorcc/configure-ad)
 
